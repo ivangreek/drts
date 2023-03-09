@@ -2,14 +2,29 @@
   "organization": [
     {
       "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "petsAllowed": true,
-      "organizer": "Kat Laydee"
+      "name": "DRAXIS",
+      "legalName": "DRAXIS ENVIRONMENTAL SA",
+      "pic": "996151686",
+      "legalAddress": "Sofouli 54-56",
+      "legalCity": "Thessaloniki",
+      "legalPrefecture": "Thessaloniki",
+      "legalCountry": "Greece",
+      "vat": "EL100000001",
+      "website": "https://www.draxis.gr",
+      "type": " Small or medium-size enterprise"
+    },
+    {
+      "id": 125,
+      "name": "AgroApps",
+      "legalName": "AgroApps PC",
+      "pic": "996151686",
+      "legalAddress": "Ethnikis Antistaseos 18",
+      "legalCity": "Kalamaria",
+      "legalPrefecture": "Thessaloniki",
+      "legalCountry": "Greece",
+      "vat": "EL100000002",
+      "website": "https://www.agroapps.gr",
+      "type": " Small or medium-size enterprise"
     }
   ]
 }
