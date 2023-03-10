@@ -26,5 +26,23 @@
       "website": "https://www.agroapps.gr",
       "type": " Small or medium-size enterprise"
     }
+  ],
+  "organization_location": [
+    {
+      "id": 123,
+      "name": "DRAXIS Thessaloniki",
+      "organization_id": 123,
+      "address": "Sofouli 54-56",
+      "city": "Thessaloniki",
+      "country": "Greece"      
+    },
+    {
+      "id": 123,
+      "name": "DRAXIS Athens",
+      "organization_id": 123,
+      "address": "317 Mesogeion Avenue & Lokridos",
+      "city": "Athens",
+      "country": "Greece"      
+    }
   ]
 }
