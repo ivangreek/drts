@@ -45,6 +45,20 @@
       "country": "Greece"      
     }
   ],
+  "organization_calendar": [
+    {
+      "id": 523,
+      "name": "Thessaloniki 2023",
+      "organization_id": 123,
+      "year": 2023      
+    },
+    {
+      "id": 521,
+      "name": "Thessaloniki 2024",
+      "organization_id": 123,
+      "year": 2024      
+    }
+  ],
 "state":
 [{
   "name": "Austria",
