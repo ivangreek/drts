@@ -47,23 +47,14 @@
   ],
 "country":
 [{
-  "name": "Andorra",
-  "code": "AD"
-}, {
   "name": "Albania",
   "code": "AL"
 }, {
   "name": "Austria",
   "code": "AT"
 }, {
-  "name": "Bosnia and Herzegovina",
-  "code": "BA"
-}, {
   "name": "Belgium",
   "code": "BE"
-}, {
-  "name": "Bulgaria",
-  "code": "BG"
 }, {
   "name": "Cyprus",
   "code": "CY"
@@ -101,14 +92,8 @@
   "name": "Ireland",
   "code": "IE"
 }, {
-  "name": "Iceland",
-  "code": "IC"
-}, {
   "name": "Italy",
   "code": "IT"
-}, {
-  "name": "Liechtenstein",
-  "code": "LI"
 }, {
   "name": "Lithuania",
   "code": "LT"
@@ -142,7 +127,4 @@
 }, {
   "name": "Slovakia",
   "code": "SK"
-}, {
-  "name": "San Marino",
-  "code": "SM"
 }]}
